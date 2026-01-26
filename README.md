@@ -84,7 +84,7 @@ I'm a passionate **Full-Stack Developer** with a strong focus on building **inno
 
 ### **Language Distribution**
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roshankumar0036singh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae)](https://github.com/roshankumar0036singh)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roshankumar0036singh&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&exclude_repo=roshankumar0036singh&hide=Dockerfile,PLpgSQL)](https://github.com/roshankumar0036singh)
 
 ### **Contribution Streak**
 
