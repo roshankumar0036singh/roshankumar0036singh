@@ -161,15 +161,16 @@ const roshan = {
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🎯 "Code is like humor. When you have to explain it, it's bad." – Cory House
+### "Code is like humor. When you have to explain it, it's bad." – Cory House
 
 ---
 
-**⭐️ From [roshankumar0036singh](https://github.com/roshankumar0036singh) | Built with ❤️ and ☕**
+**⭐️ From [roshankumar0036singh](https://github.com/roshankumar0036singh)
 
 *Last Updated: January 2026*
 
 </div>
+
 
 
 
