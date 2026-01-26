@@ -80,33 +80,30 @@ I'm a passionate **Full-Stack Developer** with a strong focus on building **inno
 
 ### **Overall Stats**
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=roshankumar0036singh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)](https://github.com/roshankumar0036singh)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=roshankumar0036singh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)
 
 ### **Language Distribution**
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roshankumar0036singh&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&exclude_repo=roshankumar0036singh&hide=Dockerfile,PLpgSQL)](https://github.com/roshankumar0036singh)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roshankumar0036singh&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&hide=Dockerfile,PLpgSQL)
 
 ### **Contribution Streak**
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=roshankumar0036singh&theme=tokyonight&hide_border=true&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakLabel=70a5fd)](https://github.com/roshankumar0036singh)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=roshankumar0036singh&theme=tokyonight&hide_border=true&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakLabel=70a5fd&sideLabels=70a5fd&dates=38bdae)
 
 ### **Activity Graph**
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=roshankumar0036singh&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=roshankumar0036singh&theme=tokyo-night&hide_border=true&area=true&bg_color=1a1b27)
 
 ### **Contribution Stats**
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=roshankumar0036singh&theme=tokyonight" alt="Contribution Stats" />
+![Contribution Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=roshankumar0036singh&theme=tokyonight)
 
-### **Productive Time**
+### **Commits & PRs**
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=roshankumar0036singh&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=roshankumar0036singh&theme=tokyonight)
+![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=roshankumar0036singh&theme=tokyonight&utcOffset=5.5)
 
-### **GitHub Trophies**
 
-<img src="https://github-profile-trophy.vercel.app/?username=roshankumar0036singh&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
-
-</div>
 
 ---
 
