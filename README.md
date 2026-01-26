@@ -10,6 +10,7 @@
 ![GitHub Followers](https://img.shields.io/github/followers/roshankumar0036singh?style=for-the-badge&color=6366f1&labelColor=1e293b)
 ![GitHub Stars](https://img.shields.io/github/stars/roshankumar0036singh?style=for-the-badge&color=6366f1&labelColor=1e293b)
 ![Repositories](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=6366f1&labelColor=1e293b&label=Repositories&query=$.public_repos&url=https://api.github.com/users/roshankumar0036singh)
+![2026 Commits](https://img.shields.io/badge/2026_Commits-246-38bdae?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
