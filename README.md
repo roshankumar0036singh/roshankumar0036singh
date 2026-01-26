@@ -90,7 +90,7 @@ I'm a passionate **Full-Stack Developer** with a strong focus on building **inno
 
 ### **Contribution Calendar**
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=roshankumar0036singh&theme=tokyonight&hide_border=true)
+[![Contribution Stats](https://ghchart.rshah.org/6366f1/roshankumar0036singh/2026)](https://github.com/roshankumar0036singh)
 
 ### **Commit Statistics**
 
@@ -170,6 +170,7 @@ const roshan = {
 *Last Updated: January 2026*
 
 </div>
+
 
 
 
