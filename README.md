@@ -80,10 +80,6 @@ I'm a passionate **Full-Stack Developer** with a strong focus on building **inno
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roshankumar0036singh&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&hide=Dockerfile,PLpgSQL)
 
-### **Contribution Streak**
-
-![GitHub Streak](https://github-readme-stats.vercel.app/api?username=roshankumar0036singh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-
 ### **Activity Graph**
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=roshankumar0036singh&theme=tokyo-night&hide_border=true&area=true)](https://github.com/roshankumar0036singh)
@@ -170,6 +166,7 @@ const roshan = {
 *Last Updated: January 2026*
 
 </div>
+
 
 
 
