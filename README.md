@@ -88,20 +88,27 @@ I'm a passionate **Full-Stack Developer** with a strong focus on building **inno
 
 ### **Contribution Streak**
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=roshankumar0036singh&theme=tokyonight&hide_border=true&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakLabel=70a5fd&sideLabels=70a5fd&dates=38bdae)
+[![GitHub Streak](https://streak-stats.demolab.com?user=roshankumar0036singh&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
 
 ### **Activity Graph**
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=roshankumar0036singh&theme=tokyo-night&hide_border=true&area=true&bg_color=1a1b27)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=roshankumar0036singh&theme=tokyo-night&hide_border=true&area=true)](https://github.com/roshankumar0036singh)
 
-### **Contribution Stats**
+### **Contribution Calendar**
 
-![Contribution Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=roshankumar0036singh&theme=tokyonight)
+[![Contribution Stats](https://ghchart.rshah.org/6366f1/roshankumar0036singh)](https://github.com/roshankumar0036singh)
 
-### **Commits & PRs**
+### **Commit Statistics**
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=roshankumar0036singh&theme=tokyonight)
-![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=roshankumar0036singh&theme=tokyonight&utcOffset=5.5)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=roshankumar0036singh&theme=tokyonight" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=roshankumar0036singh&theme=tokyonight" alt="Most Commit Language" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=roshankumar0036singh&theme=tokyonight" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=roshankumar0036singh&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
+</p>
 
 
 
