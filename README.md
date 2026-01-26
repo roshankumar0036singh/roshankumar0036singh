@@ -82,7 +82,7 @@ I'm a passionate **Full-Stack Developer** with a strong focus on building **inno
 
 ### **Contribution Streak**
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=roshankumar0036singh&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-stats.vercel.app/api?username=roshankumar0036singh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
 ### **Activity Graph**
 
@@ -170,6 +170,7 @@ const roshan = {
 *Last Updated: January 2026*
 
 </div>
+
 
 
 
